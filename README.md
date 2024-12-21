@@ -2,7 +2,7 @@
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me rajatchaturvedi5959@gmail.com
+- 📫 How to reach me rajatchaturvedi59@gmail.com
 - 😄 Pronouns: Rajat chaturvedi
 - ⚡ Fun fact: jokes allows(not personal)
   
