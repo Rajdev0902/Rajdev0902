@@ -1,13 +1,50 @@
-- 👋 Hi, I’m @Rajdev0902
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me rajatchaturvedi59@gmail.com
-- 😄 Pronouns: Rajat chaturvedi
-- ⚡ Fun fact: jokes allows(not personal)
-  
+⚡ Rajat
+ DevOps Engineer • Cloud Infrastructure • Kubernetes • Automation
 
-<!---
-Rajdev0902/Rajdev0902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+```yaml
+name: Rajat Chaturvedi
+
+role: DevOps Engineer
+
+specialization:
+  - Cloud Infrastructure
+  - CI/CD Automation
+  - Kubernetes
+  - Infrastructure as Code
+  - Monitoring & Observability
+
+currently_working_on:
+  - Kubernetes Deployments
+  - Cloud Automation
+  - CI/CD Pipelines
+  - Infrastructure Provisioning
+
+motto:
+  - Automate Everything Possible
+```
+
+## 🚀 Current Focus
+
+```text
+☸ Kubernetes Administration
+☁ AWS Cloud Infrastructure
+🔄 CI/CD Automation
+🏗 Infrastructure as Code
+📊 Monitoring & Observability
+🚀 Cloud Native Technologies
+
+## 🤝 Connect With Me
+
+📧 Email: **rajatchaturvedi59@gmail.com**
+
+🐙 GitHub: **https://github.com/Rajdev0902**
+
+💼 LinkedIn: **www.linkedin.com/in/rajat-b-790079206**
+
+
+
+⚡ DevOps Philosophy
+
+"First automate it. Then optimize it. Then scale it."
