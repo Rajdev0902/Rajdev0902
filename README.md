@@ -51,6 +51,34 @@ motto:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rajdev0902/.github/output/github-contribution-grid-snake.svg">
 </picture>
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rajdev0902&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+## 📊 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajdev0902&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajdev0902&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajdev0902&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajdev0902&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajdev0902&theme=tokyonight"/>
+
+</div>
+
 
 ⚡ DevOps Philosophy
 
