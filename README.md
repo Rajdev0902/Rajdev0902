@@ -43,6 +43,9 @@ motto:
 
 💼 LinkedIn: **www.linkedin.com/in/rajat-b-790079206**
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Rajdev0902/Rajdev0902/output/github-contribution-grid-snake-dark.svg)
 
 
 ⚡ DevOps Philosophy
