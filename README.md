@@ -45,7 +45,11 @@ motto:
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Rajdev0902/Rajdev0902/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajdev0902/.github/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajdev0902/.github/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rajdev0902/.github/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 ⚡ DevOps Philosophy
