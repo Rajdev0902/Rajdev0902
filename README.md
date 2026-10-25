@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1D4ED8,75:06B6D4,100:7C3AED&height=220&section=header&text=Rajat%20Chaturvedi&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="Rajat's animated profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1D4ED8,75:06B6D4,100:7C3AED&height=220&section=header&text=Rajat%20Babu&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="Rajat's animated profile header"/>
 
 # Azure DevOps & Cloud Infrastructure Engineer
 
